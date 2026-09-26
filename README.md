@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Rahul Kumar 👋</h1>
-
-<h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Machine Learning Engineer</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Rahul%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20|%20Aspiring%20ML%20Engineer&descAlignY=55&descSize=18" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=5th+Sem+CSE+(AI+%26+ML)+Student;Learning+DSA+in+C%2B%2B;Building+Full-Stack+Projects;Future+Machine+Learning+Engineer" alt="Typing SVG" />
@@ -44,6 +44,14 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulKumar-018&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -53,6 +61,14 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulKumar-018&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RahulKumar-018/RahulKumar-018/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -67,4 +83,8 @@ goal:       "Software / Full-Stack internship → ML Engineering"
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RahulKumar-018&color=58A6FF&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer" />
 </p>
