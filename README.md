@@ -1,618 +1,792 @@
-<!--
-  ┌─────────────────────────────────────────────────────────┐
-  │  RAHUL KUMAR — GitHub Profile README                    │
-  │  Design: Premium Dark · Indigo Accent · Verified Only  │
-  │  Built: 2026-09-27 · github.com/RahulKumar-018         │
-  └─────────────────────────────────────────────────────────┘
--->
-
-<!-- ════════════════════════════════════════════════════════
-     HERO
-     ════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--   RAHUL KUMAR — Ultimate Premium · Cyberpunk Violet       -->
+<!--   All data verified · All animations real                 -->
+<!--   github.com/RahulKumar-018                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+<!-- ▓▓ HERO — Animated Waving Banner ▓▓ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080010,30:0f0025,60:1a003a,85:0f0025,100:080010&height=280&section=header&text=Rahul%20Kumar&fontSize=76&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=🚀%20Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%2FML%20%7C%20DSA%20Grinder&descAlignY=58&descAlign=50&descColor=d946ef&animation=fadeIn&stroke=7c3aed&strokeWidth=2" />
+
+<br/>
+
+<!-- ▓▓ ANIMATED TYPING — Fira Code, big, magenta ▓▓ -->
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=D946EF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Hey%2C+I'm+Rahul+Kumar+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+%40+Shivalik+COE;DSA+in+C%2B%2B+%E2%80%94+Striver+A2Z+Roadmap+%F0%9F%94%A5;95+LeetCode+%7C+70-Day+Max+Streak+%E2%9A%A1;Oracle+OCI+Certified+%E2%80%94+Gen+AI+Pro+%F0%9F%8F%85;Full+Stack+%E2%86%92+ML+Engineering+%7C+One+Commit+at+a+Time" alt="Typing SVG" />
+</h1>
+
+<!-- ▓▓ ROLE BADGES ▓▓ -->
+<p>
+  <img src="https://img.shields.io/badge/🎓_Degree-B.Tech_CSE_(AI_%26_ML)-7c3aed?style=for-the-badge&labelColor=12003a" />
+  <img src="https://img.shields.io/badge/🏛_College-Shivalik_COE%2C_Dehradun-a855f7?style=for-the-badge&labelColor=12003a" />
+  <img src="https://img.shields.io/badge/📅_Year-3rd_Year_%2F_5th_Sem-d946ef?style=for-the-badge&labelColor=12003a" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/📍_Location-Dehradun%2C_Uttarakhand_🏔-6d28d9?style=for-the-badge&labelColor=12003a" />
+  <img src="https://img.shields.io/badge/💼_Status-Open_to_Internships-c026d3?style=for-the-badge&labelColor=12003a" />
+  <img src="https://img.shields.io/badge/🧠_Lang-C%2B%2B_First-4c1d95?style=for-the-badge&labelColor=12003a" />
+</p>
+
+<!-- ▓▓ STATS BADGES ▓▓ -->
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=RahulKumar-018&label=Profile%20Views&color=7&icon=5&pretty=true" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/RahulKumar-018?style=social&label=Follow" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LeetCode_Rank-%231%2C794%2C053-d946ef?style=flat-square&logo=leetcode&logoColor=white&labelColor=12003a" />
+</p>
+
+<!-- ▓▓ TAGLINE ▓▓ -->
+<p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  &nbsp;&nbsp;
+  <i><b>Solving patterns in C++, shipping on the web, thinking about AI. Every. Single. Day.</b></i>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+</p>
+
+<!-- ▓▓ SOCIAL LINKS ▓▓ -->
+<p>
+  <a href="https://linkedin.com/in/rahul-kumar-4665592a6">
+    <img src="https://img.shields.io/badge/LinkedIn-%40rahul--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/Rahulkumar33/">
+    <img src="https://img.shields.io/badge/LeetCode-%40Rahulkumar33-d946ef?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/rahulkufgas">
+    <img src="https://img.shields.io/badge/GFG-%40rahulkufgas-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+<p>
+  <a href="https://takeuforward.org/profile/Rahul_Kumar07">
+    <img src="https://img.shields.io/badge/Striver_A2Z-%40Rahul__Kumar07-7c3aed?style=for-the-badge&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/RahulKumar-018">
+    <img src="https://img.shields.io/badge/GitHub-%40RahulKumar--018-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     WHO AM I
+     ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<h2>
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40" style="vertical-align:middle" />
+  &nbsp;&nbsp; 👨‍💻 Who Am I? &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="40" style="vertical-align:middle" />
+</h2>
+</div>
+
+<table align="center" width="96%">
+<tr>
+<td valign="top" width="55%">
+
+<h3>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" style="vertical-align:middle" />&nbsp;
+  <b>🚀 My Story</b>
+</h3>
+
+<blockquote>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📍-Dehradun%2C_Uttarakhand-7c3aed?style=flat-square&labelColor=12003a" />&nbsp;
+  <img src="https://img.shields.io/badge/🎓-3rd_Year_CSE-d946ef?style=flat-square&labelColor=12003a" />
+</p>
+
+I'm a **Computer Science student** at Shivalik College of Engineering, Dehradun, currently in my **3rd year studying AI & ML**.
+
+My daily grind is **DSA in C++** (following Striver's A2Z roadmap), solving problems on LeetCode every day, and building projects that are actually functional.
+
+<p align="left">
+  <b>🎯 Career Direction:</b><br/>
+  <code>Software Engineering → Full Stack Dev → ML Engineering</code>
+</p>
+
+<p align="left">
+  <b>🧠 Current Focus:</b>
+  <ul align="left">
+    <li>🔢 DSA patterns in C++ — Striver A2Z daily</li>
+    <li>🌐 Full Stack fundamentals — HTML/CSS/JS → React</li>
+    <li>🤖 AI/ML — Oracle certified, building foundations</li>
+    <li>💻 Software Engineering — clean code, Git, systems</li>
+  </ul>
+</p>
+
+<p align="left">
+  <b>📜 Oracle OCI Certifications (2025):</b><br/>
+  &nbsp;&nbsp;🏅 Gen AI Professional — LLMs, RAG, OCI GenAI<br/>
+  &nbsp;&nbsp;🏅 AI Foundations — ML, DL, NLP, CV
+</p>
+
+</blockquote>
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer coding" /><br/><br/>
+
+<!-- Animated Terminal SVG with blinking cursor -->
+<svg width="300" height="130" viewBox="0 0 300 130" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Background gradient -->
-    <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   style="stop-color:#060810"/>
-      <stop offset="50%"  style="stop-color:#0a0d1a"/>
-      <stop offset="100%" style="stop-color:#060810"/>
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0025"/>
+      <stop offset="100%" style="stop-color:#080010"/>
     </linearGradient>
-    <!-- Indigo accent glow -->
-    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#6366f1;stop-opacity:0"/>
-      <stop offset="30%"  style="stop-color:#6366f1;stop-opacity:0.8"/>
-      <stop offset="70%"  style="stop-color:#8b5cf6;stop-opacity:0.8"/>
-      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0"/>
-    </linearGradient>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#e6edf3"/>
-      <stop offset="60%"  style="stop-color:#e6edf3"/>
-      <stop offset="100%" style="stop-color:#8b949e"/>
-    </linearGradient>
-    <!-- Subtle grid pattern -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#6366f1" stroke-width="0.15" stroke-opacity="0.3"/>
-    </pattern>
-    <!-- Glow filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <style>
+      .blink { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      .glow-v { filter: drop-shadow(0 0 4px #d946ef); }
+    </style>
   </defs>
-
-  <!-- Base -->
-  <rect width="860" height="200" rx="14" fill="url(#heroBg)"/>
-  <!-- Grid overlay -->
-  <rect width="860" height="200" rx="14" fill="url(#grid)" opacity="0.4"/>
-  <!-- Top indigo accent line -->
-  <rect x="80" y="0" width="700" height="2" rx="1" fill="url(#accentLine)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <!-- Bottom accent line -->
-  <rect x="80" y="198" width="700" height="2" rx="1" fill="url(#accentLine)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="1.5s" repeatCount="indefinite"/>
-  </rect>
-  <!-- Left dot -->
-  <circle cx="40" cy="100" r="3" fill="#6366f1" opacity="0.6">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Right dot -->
-  <circle cx="820" cy="100" r="3" fill="#8b5cf6" opacity="0.6">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Terminal prompt line -->
-  <text x="430" y="62" text-anchor="middle"
-        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
-        font-size="11" fill="#6366f1" opacity="0.7" filter="url(#softGlow)">▸ rahul@github:~$  whoami</text>
-
-  <!-- Main name -->
-  <text x="430" y="112" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="54" font-weight="700" letter-spacing="-1"
-        fill="url(#titleGrad)" filter="url(#softGlow)">Rahul Kumar</text>
-
-  <!-- Role line with dots -->
-  <text x="430" y="145" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="13" fill="#8b949e" letter-spacing="1.5">
-    <tspan fill="#6366f1">Software Developer</tspan>
-    <tspan fill="#30363d">  ·  </tspan>
-    <tspan>Full Stack</tspan>
-    <tspan fill="#30363d">  ·  </tspan>
-    <tspan>AI / ML</tspan>
-  </text>
-
-  <!-- Degree line -->
-  <text x="430" y="170" text-anchor="middle"
-        font-family="'JetBrains Mono','Fira Code',monospace"
-        font-size="10" fill="#484f58" letter-spacing="0.5">B.Tech CSE (AI &amp; ML)  ·  Shivalik College of Engineering  ·  Dehradun</text>
-
-  <!-- Corner brackets - premium detail -->
-  <text x="18" y="24" font-family="monospace" font-size="14" fill="#6366f1" opacity="0.4">┌</text>
-  <text x="834" y="24" font-family="monospace" font-size="14" fill="#6366f1" opacity="0.4">┐</text>
-  <text x="18" y="195" font-family="monospace" font-size="14" fill="#6366f1" opacity="0.4">└</text>
-  <text x="834" y="195" font-family="monospace" font-size="14" fill="#6366f1" opacity="0.4">┘</text>
+  <rect width="300" height="130" rx="8" fill="url(#termBg)" stroke="#3b0764" stroke-width="1.5"/>
+  <!-- Traffic lights -->
+  <circle cx="16" cy="16" r="5" fill="#ef4444" opacity="0.8"/>
+  <circle cx="32" cy="16" r="5" fill="#f59e0b" opacity="0.8"/>
+  <circle cx="48" cy="16" r="5" fill="#22c55e" opacity="0.8"/>
+  <text x="80" y="20" font-family="'JetBrains Mono',monospace" font-size="9" fill="#581c87">rahul@github:~</text>
+  <line x1="8" y1="28" x2="292" y2="28" stroke="#2d0060" stroke-width="1"/>
+  <!-- Terminal lines -->
+  <text x="12" y="46" font-family="'JetBrains Mono',monospace" font-size="10" fill="#a855f7">$</text>
+  <text x="24" y="46" font-family="'JetBrains Mono',monospace" font-size="10" fill="#e9d5ff">whoami</text>
+  <text x="12" y="62" font-family="'JetBrains Mono',monospace" font-size="10" fill="#d946ef" class="glow-v">→ rahul-kumar · developer · problem-solver</text>
+  <text x="12" y="78" font-family="'JetBrains Mono',monospace" font-size="10" fill="#a855f7">$</text>
+  <text x="24" y="78" font-family="'JetBrains Mono',monospace" font-size="10" fill="#e9d5ff">cat current_focus.txt</text>
+  <text x="12" y="94" font-family="'JetBrains Mono',monospace" font-size="10" fill="#d946ef" class="glow-v">→ DSA + Full Stack + Oracle AI</text>
+  <text x="12" y="110" font-family="'JetBrains Mono',monospace" font-size="10" fill="#a855f7">$</text>
+  <text x="24" y="110" font-family="'JetBrains Mono',monospace" font-size="10" fill="#e9d5ff">git status</text>
+  <text x="12" y="126" font-family="'JetBrains Mono',monospace" font-size="10" fill="#22c55e">→ On branch main · always: building</text>
+  <!-- Blinking cursor -->
+  <rect x="218" y="117" width="7" height="11" fill="#d946ef" class="blink"/>
 </svg>
 
-<!-- Typing animation — professional, restrained -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3800&pause=1400&color=6366F1&center=true&vCenter=true&width=640&height=38&lines=Building+software+that+solves+real+problems.;95+LeetCode+problems+%E2%80%94+70-day+max+streak.;Striver+A2Z+%E2%80%94+110%2F495+problems+solved.;Oracle+OCI+Certified+%E2%80%94+Gen+AI+Professional.;Full+Stack+%E2%86%92+AI%2FML+%E2%80%94+one+commit+at+a+time." alt="Typing" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Social links — minimal, clean -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/rahul-kumar-4665592a6)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/Rahulkumar33/)&nbsp;
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rahulkufgas)&nbsp;
-[![Striver](https://img.shields.io/badge/Striver%20A2Z-6366f1?style=flat-square&logo=target&logoColor=white)](https://takeuforward.org/profile/Rahul_Kumar07)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulKumar-018)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     CURRENT STATUS — LIVE BOARD
+     ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; ⚡ Current Status &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
+
+<!-- Second typing SVG — different lines -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=30&lines=🔢+Daily+LeetCode+%7C+Striver+A2Z+C%2B%2B+Solutions+%7C+Pushing+to+DSA-_OS;🌐+Learning+React+%2B+Backend+%7C+Building+Full+Stack+Projects;🤖+Oracle+OCI+AI+Certified+%7C+Exploring+ML+Foundations;💡+Building+Ultimate-DSA-Tracker+%7C+Deployed+on+GitHub+Pages" alt="Status" />
+
+<br/><br/>
+
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" /><br/>
+      <img src="https://img.shields.io/badge/DAILY-LeetCode_+_A2Z-d946ef?style=flat-square&labelColor=12003a" /><br/>
+      <sub>Problem solving every single day</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70" /><br/>
+      <img src="https://img.shields.io/badge/LEARNING-React_%2B_Backend-7c3aed?style=flat-square&labelColor=12003a" /><br/>
+      <sub>Full Stack development path</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="70" /><br/>
+      <img src="https://img.shields.io/badge/LONG_TERM-ML_Engineering-a855f7?style=flat-square&labelColor=12003a" /><br/>
+      <sub>The ultimate destination</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════════════════════════════
-     DIVIDER
-     ════════════════════════════════════════════════════════ -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
-
-<!-- ════════════════════════════════════════════════════════
-     ABOUT
-     ════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-```python
-# rahul_kumar.py — who I am
-
-class Developer:
-    name       = "Rahul Kumar"
-    degree     = "B.Tech CSE (AI & ML)  ·  3rd Year / 5th Sem"
-    college    = "Shivalik College of Engineering, Dehradun"
-
-    focus_now  = ["DSA (C++)", "Full Stack Development", "Software Engineering"]
-    studying   = ["Striver A2Z Sheet", "LeetCode daily", "React + Backend"]
-    building   = ["Projects that are practical, functional, and well-engineered"]
-    direction  = "Full Stack Dev  →  ML Engineering"
-
-    philosophy = "Understand the pattern. Build the solution. Ship it."
-```
-
-<br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
-
-<!-- ════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════
      TECH STACK
-     ════════════════════════════════════════════════════════ -->
-
-<br/>
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3>⚙️ Tech Stack</h3>
+<h2>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; 🛠️ Tech Stack &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
 
-**Languages**<br/>
-[![Skills](https://skillicons.dev/icons?i=cpp,javascript,python,html,css&theme=dark)](https://skillicons.dev)
-
-**Tools & Environment**<br/>
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="50%">
+      <h4>💬 Languages</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,javascript,python,html,css&theme=dark&perline=5" />
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-Primary_DSA_Language-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0a0020" />
+      <img src="https://img.shields.io/badge/JavaScript-Web_Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0a0020" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🔧 Tools & Environment</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0a0020" />
+      <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0a0020" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>🤖 AI / ML Track — Oracle Certified</h4>
+      <img src="https://img.shields.io/badge/Oracle_OCI-Gen_AI_Professional_2025-7c3aed?style=for-the-badge&logo=oracle&logoColor=white&labelColor=12003a" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Oracle_OCI-AI_Foundations_2025-d946ef?style=for-the-badge&logo=oracle&logoColor=white&labelColor=12003a" />
+      <br/><br/>
+      <sub>LLMs · RAG · Vector Databases · LangChain · OCI GenAI · Machine Learning · Deep Learning · NLP · Computer Vision</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<!-- Verified tech — flat badges, consistent style -->
-![C++](https://img.shields.io/badge/C%2B%2B-primary%20language-6366f1?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=161b22)
-![JavaScript](https://img.shields.io/badge/JavaScript-frontend-6366f1?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=161b22)
-![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-markup%20%26%20style-6366f1?style=flat-square&logo=html5&logoColor=E34F26&labelColor=161b22)
-![Git](https://img.shields.io/badge/Git-version%20control-6366f1?style=flat-square&logo=git&logoColor=F05032&labelColor=161b22)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
 
-<!-- ════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════
      DSA JOURNEY
-     ════════════════════════════════════════════════════════ -->
-
-<br/>
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h3>📊 DSA Journey</h3>
 
-**Roadmap:** [Striver A2Z](https://takeuforward.org/profile/Rahul_Kumar07) &nbsp;·&nbsp;
-**Practice:** [LeetCode](https://leetcode.com/u/Rahulkumar33/) · [GFG](https://www.geeksforgeeks.org/profile/rahulkufgas) &nbsp;·&nbsp;
-**Language:** C++
+<h2>
+  <img src="https://media.giphy.com/media/cIn5fTcDMSBtC7Kkgq/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; 📊 DSA Journey &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/cIn5fTcDMSBtC7Kkgq/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
 
-<br/>
+<sub>
+  🔢 Language: <b>C++</b> &nbsp;·&nbsp;
+  📋 Roadmap: <a href="https://takeuforward.org/profile/Rahul_Kumar07"><b>Striver A2Z</b></a> &nbsp;·&nbsp;
+  ⚡ Practice: <a href="https://leetcode.com/u/Rahulkumar33/"><b>LeetCode</b></a> &nbsp;+&nbsp; <a href="https://www.geeksforgeeks.org/profile/rahulkufgas"><b>GFG</b></a>
+</sub>
 
-<!-- LeetCode stats card — verified data, custom SVG -->
+<br/><br/>
+
+<!-- LeetCode Card SVG — Cyberpunk Violet with glow -->
 <svg width="540" height="160" viewBox="0 0 540 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#161b22"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+    <linearGradient id="lcBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#12003a"/>
+      <stop offset="100%" style="stop-color:#080010"/>
     </linearGradient>
-    <linearGradient id="indigoBorder" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6366f1"/>
-      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    <linearGradient id="lcLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6d28d9"/>
+      <stop offset="50%" style="stop-color:#d946ef"/>
+      <stop offset="100%" style="stop-color:#6d28d9"/>
     </linearGradient>
-    <linearGradient id="totalGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#e6edf3"/>
-      <stop offset="100%" style="stop-color:#c9d1d9"/>
+    <linearGradient id="lcNum" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#fdf4ff"/>
+      <stop offset="100%" style="stop-color:#e9d5ff"/>
     </linearGradient>
+    <filter id="lcGlow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .pulse { animation: pulse 2.5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:0.7} 50%{opacity:1} }
+    </style>
   </defs>
-  <!-- Card -->
-  <rect width="540" height="160" rx="12" fill="url(#cardBg)" stroke="#21262d" stroke-width="1"/>
-  <!-- Left accent stripe -->
-  <rect x="0" y="20" width="3" height="120" rx="1.5" fill="url(#indigoBorder)"/>
-  <!-- LeetCode label -->
-  <text x="22" y="30" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11" fill="#6366f1" font-weight="600" letter-spacing="1">LEETCODE</text>
-  <text x="516" y="30" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="10" fill="#484f58">@Rahulkumar33</text>
-  <line x1="18" y1="38" x2="522" y2="38" stroke="#21262d" stroke-width="1"/>
-
-  <!-- Total solved -->
-  <text x="26" y="63" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#8b949e" letter-spacing="0.5">TOTAL SOLVED</text>
-  <text x="26" y="96" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="42" font-weight="800" fill="url(#totalGrad)">95</text>
-  <text x="88" y="96" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" fill="#30363d">/ 4068</text>
-
+  <rect width="540" height="160" rx="14" fill="url(#lcBg)" stroke="#3b0764" stroke-width="1.5"/>
+  <!-- Top glow line -->
+  <rect x="0" y="0" width="540" height="3" rx="1.5" fill="url(#lcLine)" filter="url(#lcGlow)" class="pulse"/>
+  <!-- Left stripe -->
+  <rect x="0" y="20" width="4" height="120" rx="2" fill="url(#lcLine)"/>
+  <!-- Header -->
+  <text x="22" y="28" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" font-weight="800" fill="#d946ef" letter-spacing="1.5" filter="url(#lcGlow)">⚡ LEETCODE STATS</text>
+  <text x="516" y="28" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="10" fill="#4c1d95">@Rahulkumar33</text>
+  <line x1="16" y1="36" x2="524" y2="36" stroke="#2d0060" stroke-width="1"/>
+  <!-- Total -->
+  <text x="24" y="58" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#7c3aed" letter-spacing="1">PROBLEMS SOLVED</text>
+  <text x="24" y="96" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="44" font-weight="900" fill="url(#lcNum)" filter="url(#lcGlow)">95</text>
+  <text x="90" y="96" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="14" fill="#3b0764">/ 4068</text>
+  <!-- Rank -->
+  <text x="24" y="115" font-family="'JetBrains Mono',monospace" font-size="10" fill="#4c1d95">Rank: <tspan fill="#a855f7">#1,794,053</tspan></text>
   <!-- Divider -->
-  <line x1="150" y1="48" x2="150" y2="110" stroke="#21262d" stroke-width="1"/>
-
+  <line x1="160" y1="46" x2="160" y2="118" stroke="#2d0060" stroke-width="1"/>
   <!-- Easy -->
-  <text x="172" y="60" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#3fb950">● EASY</text>
-  <text x="172" y="86" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="26" font-weight="700" fill="#3fb950">48</text>
-  <text x="206" y="86" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11" fill="#484f58">/ 968</text>
-
+  <text x="180" y="58" font-family="-apple-system,sans-serif" font-size="10" fill="#22c55e">● EASY</text>
+  <text x="180" y="88" font-family="-apple-system,sans-serif" font-size="30" font-weight="800" fill="#22c55e">48</text>
+  <text x="220" y="88" font-family="-apple-system,sans-serif" font-size="12" fill="#2d0060">/ 968</text>
   <!-- Medium -->
-  <text x="295" y="60" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#d29922">● MEDIUM</text>
-  <text x="295" y="86" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="26" font-weight="700" fill="#d29922">43</text>
-  <text x="331" y="86" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11" fill="#484f58">/ 2121</text>
-
+  <text x="305" y="58" font-family="-apple-system,sans-serif" font-size="10" fill="#f59e0b">● MEDIUM</text>
+  <text x="305" y="88" font-family="-apple-system,sans-serif" font-size="30" font-weight="800" fill="#f59e0b">43</text>
+  <text x="349" y="88" font-family="-apple-system,sans-serif" font-size="12" fill="#2d0060">/ 2121</text>
   <!-- Hard -->
-  <text x="420" y="60" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="10" fill="#f85149">● HARD</text>
-  <text x="420" y="86" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="26" font-weight="700" fill="#f85149">4</text>
-  <text x="439" y="86" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="11" fill="#484f58">/ 979</text>
-
-  <!-- Bottom stats row -->
-  <line x1="18" y1="118" x2="522" y2="118" stroke="#21262d" stroke-width="1"/>
-  <text x="26" y="140" font-family="'JetBrains Mono',monospace" font-size="11" fill="#8b949e">Streak <tspan fill="#e6edf3" font-weight="600">70 days 🔥</tspan></text>
-  <text x="200" y="140" font-family="'JetBrains Mono',monospace" font-size="11" fill="#8b949e">Active <tspan fill="#e6edf3" font-weight="600">73 days</tspan></text>
-  <text x="340" y="140" font-family="'JetBrains Mono',monospace" font-size="11" fill="#8b949e">Acceptance <tspan fill="#3fb950" font-weight="600">85.82%</tspan></text>
-  <text x="26" y="156" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">🏅 50 Days Badge 2026  ·  Striver A2Z: 110/495 solved</text>
+  <text x="432" y="58" font-family="-apple-system,sans-serif" font-size="10" fill="#d946ef">● HARD</text>
+  <text x="432" y="88" font-family="-apple-system,sans-serif" font-size="30" font-weight="800" fill="#d946ef" filter="url(#lcGlow)">4</text>
+  <text x="452" y="88" font-family="-apple-system,sans-serif" font-size="12" fill="#2d0060">/ 979</text>
+  <!-- Bottom row -->
+  <line x1="16" y1="122" x2="524" y2="122" stroke="#2d0060" stroke-width="1"/>
+  <text x="24" y="142" font-family="'JetBrains Mono',monospace" font-size="11" fill="#7c3aed">🔥 Max Streak: <tspan fill="#fdf4ff" font-weight="700">70 days</tspan></text>
+  <text x="230" y="142" font-family="'JetBrains Mono',monospace" font-size="11" fill="#7c3aed">Active: <tspan fill="#fdf4ff" font-weight="700">73 days</tspan></text>
+  <text x="370" y="142" font-family="'JetBrains Mono',monospace" font-size="11" fill="#f59e0b">🏅 50 Days Badge 2026</text>
+  <text x="24" y="157" font-family="'JetBrains Mono',monospace" font-size="10" fill="#7c3aed">Acceptance: <tspan fill="#22c55e" font-weight="700">85.82%</tspan> &nbsp;·&nbsp; Striver A2Z: <tspan fill="#d946ef" font-weight="700">110 / 495</tspan></text>
 </svg>
 
 <br/><br/>
 
-<!-- Topic Progress — verified from LeetCode tag counts -->
-<svg width="560" height="300" viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
+<!-- Topic Progress Bars SVG — with glow filter -->
+<svg width="600" height="310" viewBox="0 0 600 310" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="pb1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4f46e5"/>
-      <stop offset="100%" style="stop-color:#6366f1"/>
+    <linearGradient id="tpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#12003a"/>
+      <stop offset="100%" style="stop-color:#080010"/>
     </linearGradient>
-    <linearGradient id="pb2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#059669"/>
-      <stop offset="100%" style="stop-color:#10b981"/>
+    <linearGradient id="bpA" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6d28d9"/>
+      <stop offset="100%" style="stop-color:#d946ef"/>
     </linearGradient>
-    <linearGradient id="pb3" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="bpB" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#8b5cf6"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
     </linearGradient>
-    <linearGradient id="topicBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#161b22"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
+    <linearGradient id="bpC" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4c1d95"/>
+      <stop offset="100%" style="stop-color:#7c3aed"/>
     </linearGradient>
+    <filter id="barGlow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .tpulse { animation: tpulse 3s ease-in-out infinite; }
+      @keyframes tpulse { 0%,100%{opacity:0.85} 50%{opacity:1} }
+    </style>
   </defs>
-  <rect width="560" height="300" rx="12" fill="url(#topicBg)" stroke="#21262d" stroke-width="1"/>
+  <rect width="600" height="310" rx="14" fill="url(#tpBg)" stroke="#3b0764" stroke-width="1.5"/>
+  <rect x="0" y="0" width="600" height="3" rx="1.5" fill="url(#bpA)" filter="url(#barGlow)" class="tpulse"/>
   <!-- Header -->
-  <rect x="0" y="0" width="560" height="44" rx="12" fill="#161b22"/>
-  <rect x="0" y="34" width="560" height="10" fill="#161b22"/>
-  <rect x="0" y="0" width="560" height="3" rx="1" fill="url(#pb1)" opacity="0.7"/>
-  <text x="20" y="26" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" font-weight="600" fill="#6366f1" letter-spacing="0.5">PROBLEM-SOLVING BY TOPIC</text>
-  <text x="540" y="26" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="10" fill="#484f58">LeetCode tag counts</text>
-  <line x1="16" y1="44" x2="544" y2="44" stroke="#21262d" stroke-width="1"/>
+  <text x="20" y="26" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="12" font-weight="800" fill="#d946ef" letter-spacing="1">🎯  PROBLEM-SOLVING BY TOPIC</text>
+  <text x="580" y="26" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="9" fill="#4c1d95">LeetCode verified tag counts</text>
+  <line x1="16" y1="34" x2="584" y2="34" stroke="#2d0060" stroke-width="1"/>
 
-  <!-- Rows: label@18, bar@168, maxW=330, count@506 -->
-  <text x="18" y="68" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Array</text>
-  <rect x="168" y="56" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="56" width="330" height="11" rx="5.5" fill="url(#pb1)"/>
-  <text x="506" y="68" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×74</text>
+  <!-- label@14, bar@185, maxW=356, count@548 -->
+  <text x="14" y="60" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Array</text>
+  <rect x="185" y="48" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="48" width="356" height="12" rx="6" fill="url(#bpA)" filter="url(#barGlow)"/>
+  <text x="548" y="60" font-family="'JetBrains Mono',monospace" font-size="10" fill="#d946ef">×74</text>
 
-  <text x="18" y="96" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Binary Search</text>
-  <rect x="168" y="84" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="84" width="125" height="11" rx="5.5" fill="url(#pb1)"/>
-  <text x="506" y="96" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×28</text>
+  <text x="14" y="90" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Binary Search</text>
+  <rect x="185" y="78" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="78" width="135" height="12" rx="6" fill="url(#bpA)" filter="url(#barGlow)"/>
+  <text x="548" y="90" font-family="'JetBrains Mono',monospace" font-size="10" fill="#d946ef">×28</text>
 
-  <text x="18" y="124" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Two Pointers</text>
-  <rect x="168" y="112" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="112" width="90" height="11" rx="5.5" fill="url(#pb1)"/>
-  <text x="506" y="124" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×20</text>
+  <text x="14" y="120" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Two Pointers</text>
+  <rect x="185" y="108" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="108" width="96" height="12" rx="6" fill="url(#bpA)" filter="url(#barGlow)"/>
+  <text x="548" y="120" font-family="'JetBrains Mono',monospace" font-size="10" fill="#d946ef">×20</text>
 
-  <text x="18" y="152" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Math</text>
-  <rect x="168" y="140" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="140" width="80" height="11" rx="5.5" fill="url(#pb2)"/>
-  <text x="506" y="152" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×18</text>
+  <text x="14" y="150" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Math</text>
+  <rect x="185" y="138" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="138" width="87" height="12" rx="6" fill="url(#bpB)" filter="url(#barGlow)"/>
+  <text x="548" y="150" font-family="'JetBrains Mono',monospace" font-size="10" fill="#a855f7">×18</text>
 
-  <text x="18" y="180" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Sorting</text>
-  <rect x="168" y="168" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="168" width="76" height="11" rx="5.5" fill="url(#pb2)"/>
-  <text x="506" y="180" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×17</text>
+  <text x="14" y="180" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Sorting</text>
+  <rect x="185" y="168" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="168" width="82" height="12" rx="6" fill="url(#bpB)" filter="url(#barGlow)"/>
+  <text x="548" y="180" font-family="'JetBrains Mono',monospace" font-size="10" fill="#a855f7">×17</text>
 
-  <text x="18" y="208" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Hash Table</text>
-  <rect x="168" y="196" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="196" width="58" height="11" rx="5.5" fill="url(#pb2)"/>
-  <text x="506" y="208" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×13</text>
+  <text x="14" y="210" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Hash Table</text>
+  <rect x="185" y="198" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="198" width="63" height="12" rx="6" fill="url(#bpB)" filter="url(#barGlow)"/>
+  <text x="548" y="210" font-family="'JetBrains Mono',monospace" font-size="10" fill="#a855f7">×13</text>
 
-  <text x="18" y="236" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Dynamic Prog.</text>
-  <rect x="168" y="224" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="224" width="32" height="11" rx="5.5" fill="url(#pb3)"/>
-  <text x="506" y="236" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×7</text>
+  <text x="14" y="240" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Dynamic Prog.</text>
+  <rect x="185" y="228" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="228" width="34" height="12" rx="6" fill="url(#bpC)" filter="url(#barGlow)"/>
+  <text x="548" y="240" font-family="'JetBrains Mono',monospace" font-size="10" fill="#7c3aed">×7</text>
 
-  <text x="18" y="264" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#c9d1d9">Divide &amp; Conquer</text>
-  <rect x="168" y="252" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="252" width="27" height="11" rx="5.5" fill="url(#pb3)"/>
-  <text x="506" y="264" font-family="'JetBrains Mono',monospace" font-size="10" fill="#6366f1">×6</text>
+  <text x="14" y="270" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e9d5ff">Divide &amp; Conquer</text>
+  <rect x="185" y="258" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="258" width="29" height="12" rx="6" fill="url(#bpC)" filter="url(#barGlow)"/>
+  <text x="548" y="270" font-family="'JetBrains Mono',monospace" font-size="10" fill="#7c3aed">×6</text>
 
-  <text x="18" y="292" font-family="'JetBrains Mono',monospace" font-size="11.5" fill="#8b949e">Backtracking</text>
-  <rect x="168" y="280" width="330" height="11" rx="5.5" fill="#21262d"/>
-  <rect x="168" y="280" width="9" height="11" rx="5.5" fill="url(#pb3)"/>
-  <text x="506" y="292" font-family="'JetBrains Mono',monospace" font-size="10" fill="#484f58">×1</text>
+  <text x="14" y="300" font-family="'JetBrains Mono',monospace" font-size="12" fill="#4c1d95">Backtracking</text>
+  <rect x="185" y="288" width="356" height="12" rx="6" fill="#1e0050"/>
+  <rect x="185" y="288" width="10" height="12" rx="6" fill="url(#bpC)" filter="url(#barGlow)"/>
+  <text x="548" y="300" font-family="'JetBrains Mono',monospace" font-size="10" fill="#3b0764">×1</text>
 </svg>
 
 </div>
 
-> 💡 Pattern recognition over memorization. Understand *why* a solution works, not just *that* it works.
+> 💡 **Philosophy:** Pattern recognition over memorization. Understand *why* a solution works, not just *that* it works.
 
 <details>
-<summary><b>▸ Striver A2Z Roadmap — Detailed Topic Status</b></summary>
-
+<summary><b>📋 Striver A2Z Full Topic Status — Click to Expand</b></summary>
 <br/>
 
 ```
-COMPLETED  ✅
-│
-├─ Fundamentals  ──  C++ STL · Complexity Analysis · Basic Mathematics
-│
-├─ Arrays  ×74   ──  Traversal · Sorting · Two Pointer · Sliding Window
-│                    Prefix Sum · Kadane · Hashing
-│
-├─ Binary Search ×28 ─  1D / 2D · Rotated Arrays · Answer-based BS
-│
-├─ Sorting  ──  Bubble · Selection · Insertion · Merge Sort · Quick Sort
-│
-└─ Strings  ──  Two-pointer techniques · Palindromes (active)
+✅ COMPLETED
+├─ Fundamentals  ─  C++ STL · Time/Space Complexity · Basic Math
+├─ Arrays  ×74   ─  Two Pointer · Sliding Window · Prefix Sum · Kadane · Hashing
+├─ Binary Search ×28  ─  1D/2D · Rotated Arrays · Answer-based BS
+├─ Sorting  ─  Bubble · Selection · Insertion · Merge Sort · Quick Sort
+└─ Strings  ─  Two-pointer techniques · Palindromes
 
-IN PROGRESS  🔄
-│
-├─ Strings (continuing)  ──  Sliding window · Pattern matching
-│
-└─ Recursion & Backtracking  ──  Subsets · Permutations
+🔄 IN PROGRESS
+├─ Strings  ─  Sliding window · Pattern matching
+└─ Recursion & Backtracking  ─  Subsets · Permutations (starting)
 
-UPCOMING  ⏳
-│
-└─ Stack · Queue · Linked List · Trees · Graphs
-   Heaps · Greedy · DP (deeper) · Tries · Segment Trees
+⏳ UPCOMING
+└─ Stack & Queue · Linked List · Trees · Binary Trees
+   Graphs · Heaps · Greedy · DP (advanced) · Tries · Segment Trees
 ```
 
 </details>
 
 <br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
 
-<!-- ════════════════════════════════════════════════════════
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
      PROJECTS
-     ════════════════════════════════════════════════════════ -->
-
-<br/>
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h3>🛠️ Projects</h3>
-<sub>Verified repositories — built, committed, and active on GitHub</sub>
+<h2>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; 🚀 Real Projects &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
+<sub>Only real, built, and committed repos shown — no placeholders</sub>
 </div>
 
 <br/>
 
-<!-- Project 1: DSA-_OS -->
-<table>
-<tr>
-<td width="100%">
-
-**[DSA-_OS](https://github.com/RahulKumar-018/DSA-_OS)** &nbsp;&nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Stars](https://img.shields.io/github/stars/RahulKumar-018/DSA-_OS?style=flat-square&color=6366f1&labelColor=161b22)
-
-*Striver A2Z DSA Sheet — C++ solution archive*
-
-My primary DSA repository. Contains C++ implementations of problems from the Striver A2Z sheet, organized by topic. Active and continuously updated as I progress through the roadmap.
-
-- Organized by topic: Arrays → Binary Search → Sorting → Strings → (in progress)
-- Clean, readable C++ code — focused on understanding patterns
-- Tracking 110/495 problems completed across the A2Z sheet
-
-[![View Repo →](https://img.shields.io/badge/View%20Repository-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulKumar-018/DSA-_OS)
-
-</td>
-</tr>
+<table align="center" width="96%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="26" style="vertical-align:middle"/>
+        &nbsp; <a href="https://github.com/RahulKumar-018/DSA-_OS">DSA-_OS</a>
+        <img src="https://img.shields.io/github/stars/RahulKumar-018/DSA-_OS?style=flat-square&color=d946ef&labelColor=12003a" />
+      </h3>
+      <blockquote>
+        <p>
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Active-22c55e?style=flat-square&labelColor=0a0020" />
+          <img src="https://img.shields.io/badge/DSA-Striver_A2Z-7c3aed?style=flat-square&labelColor=12003a" />
+        </p>
+        <p><b>Striver A2Z — C++ Solution Archive</b></p>
+        <ul align="left">
+          <li>Active C++ DSA solutions repository</li>
+          <li>Organized by topic: Arrays → BS → Strings → (ongoing)</li>
+          <li><b>110 / 495</b> problems completed</li>
+          <li>Clean, readable code focused on patterns</li>
+          <li>Actively pushed daily 🔥</li>
+        </ul>
+        <a href="https://github.com/RahulKumar-018/DSA-_OS">
+          <img src="https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </blockquote>
+    </td>
+    <td valign="top" width="50%">
+      <h3>
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="26" style="vertical-align:middle"/>
+        &nbsp; <a href="https://github.com/RahulKumar-018/Ultimate-DSA-Tracker">Ultimate-DSA-Tracker</a>
+        <img src="https://img.shields.io/github/stars/RahulKumar-018/Ultimate-DSA-Tracker?style=flat-square&color=d946ef&labelColor=12003a" />
+      </h3>
+      <blockquote>
+        <p>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Live-22c55e?style=flat-square" />
+        </p>
+        <p><b>Interactive DSA Progress Tracker — Deployed on GitHub Pages</b></p>
+        <ul align="left">
+          <li>Track Striver A2Z progress visually</li>
+          <li>Pure Vanilla HTML / CSS / JavaScript</li>
+          <li>Zero dependencies, zero build tools</li>
+          <li>Deployed live on GitHub Pages ✅</li>
+        </ul>
+        <a href="https://github.com/RahulKumar-018/Ultimate-DSA-Tracker">
+          <img src="https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://rahulkumar-018.github.io/Ultimate-DSA-Tracker">
+          <img src="https://img.shields.io/badge/Live_Demo_→-22c55e?style=for-the-badge&logoColor=white"/>
+        </a>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26" style="vertical-align:middle"/>
+        &nbsp; <a href="https://github.com/RahulKumar-018/Problems_solved">Problems-Solved</a>
+      </h3>
+      <blockquote>
+        <p>
+          <img src="https://img.shields.io/badge/NeetCode-Submissions-d946ef?style=flat-square&labelColor=12003a" />
+          <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+        </p>
+        <p>Personal collection of NeetCode.io problem solutions — supplementary practice alongside the Striver A2Z roadmap. Raw problem-solving archive.</p>
+        <a href="https://github.com/RahulKumar-018/Problems_solved">
+          <img src="https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </blockquote>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<!-- Project 2: Ultimate-DSA-Tracker -->
-<table>
-<tr>
-<td width="100%">
-
-**[Ultimate-DSA-Tracker](https://github.com/RahulKumar-018/Ultimate-DSA-Tracker)** &nbsp;&nbsp; ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Stars](https://img.shields.io/github/stars/RahulKumar-018/Ultimate-DSA-Tracker?style=flat-square&color=6366f1&labelColor=161b22) ![Pages](https://img.shields.io/badge/GitHub%20Pages-live-3fb950?style=flat-square)
-
-*Interactive DSA progress tracker — deployed on GitHub Pages*
-
-A frontend web application for tracking Striver A2Z DSA sheet progress. Built with HTML, CSS, and vanilla JavaScript. Deployed live via GitHub Pages.
-
-- Progress tracking UI across DSA topics
-- Client-side JavaScript logic — no build tools, pure web
-- Live deployment on GitHub Pages
-
-[![View Repo →](https://img.shields.io/badge/View%20Repository-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulKumar-018/Ultimate-DSA-Tracker)&nbsp;
-[![Live Demo →](https://img.shields.io/badge/Live%20Demo-3fb950?style=flat-square&logo=github&logoColor=white)](https://rahulkumar-018.github.io/Ultimate-DSA-Tracker)
-
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- Project 3: Problems_solved -->
-<table>
-<tr>
-<td width="100%">
-
-**[Problems-Solved](https://github.com/RahulKumar-018/Problems_solved)**
-
-*NeetCode.io problem submissions archive*
-
-A personal repository of problem solutions from NeetCode.io — supplementary practice alongside the Striver A2Z roadmap.
-
-[![View Repo →](https://img.shields.io/badge/View%20Repository-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulKumar-018/Problems_solved)
-
-</td>
-</tr>
-</table>
-
-<br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
-
-<!-- ════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════
      GITHUB STATS
-     ════════════════════════════════════════════════════════ -->
-
-<br/>
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<h3>📈 GitHub Activity</h3>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=RahulKumar-018&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=8b949e&ring_color=6366f1&count_private=true&hide=prs,issues" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar-018&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=8b949e&langs_count=5" alt="Top Languages" />
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; 📈 GitHub Stats &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=RahulKumar-018&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=080010&title_color=d946ef&icon_color=a855f7&text_color=9d7fc9&ring_color=7c3aed&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulKumar-018&layout=compact&theme=midnight-purple&hide_border=true&bg_color=080010&title_color=d946ef&text_color=9d7fc9&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RahulKumar-018&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=6366f1&fire=f85149&currStreakLabel=6366f1&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RahulKumar-018&theme=midnight-purple&hide_border=true&background=080010&stroke=3b0764&ring=d946ef&fire=a855f7&currStreakLabel=d946ef&sideLabels=7c3aed&dates=4c1d95&sideNums=fdf4ff&currStreakNum=fdf4ff&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulKumar-018&bg_color=0d1117&color=6366f1&line=4f46e5&point=6366f1&area=true&area_color=4f46e5&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulKumar-018&bg_color=080010&color=d946ef&line=7c3aed&point=d946ef&area=true&area_color=3b0764&hide_border=true&radius=8" />
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=RahulKumar-018&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" />
 
 </div>
 
 <br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
 
-<!-- ════════════════════════════════════════════════════════
-     CERTIFICATIONS
-     ════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════
+     CERTIFICATIONS
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<h3>🏅 Certifications</h3>
 
-<table>
-<tr>
-<td align="center" width="50%">
+<h2>
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI88bAVW/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; 🏅 Certifications &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI88bAVW/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
 
-[![Oracle](https://img.shields.io/badge/Oracle%20OCI%202025-Gen%20AI%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1a1a)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3ECC7CF9CFDEC35BF789347D467CD689F53E901574AAE0911E909165CE0437BA)
-
-`LLMs · RAG · Vector DB · LangChain · OCI GenAI`
-
-[Verify →](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3ECC7CF9CFDEC35BF789347D467CD689F53E901574AAE0911E909165CE0437BA)
-
-</td>
-<td align="center" width="50%">
-
-[![Oracle](https://img.shields.io/badge/Oracle%20OCI%202025-AI%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1a1a)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=536B7DA1A445B06AE9B1ABEECAA2542721D3C2B9028B721D566112844367C634)
-
-`ML · Deep Learning · NLP · Computer Vision`
-
-[Verify →](https://catalog-education.oracle.com/ords/certview/sharebadge?id=536B7DA1A445B06AE9B1ABEECAA2542721D3C2B9028B721D566112844367C634)
-
-</td>
-</tr>
+<table align="center" width="85%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/ORACLE_OCI_2025-Gen_AI_Professional-7c3aed?style=for-the-badge&logo=oracle&logoColor=white&labelColor=12003a" /><br/><br/>
+      <sub>
+        ✅ LLMs &nbsp;·&nbsp; RAG Pipelines &nbsp;·&nbsp; Vector Databases<br/>
+        ✅ LangChain &nbsp;·&nbsp; OCI GenAI Service<br/>
+        ✅ Prompt Engineering &nbsp;·&nbsp; AI Applications
+      </sub><br/><br/>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3ECC7CF9CFDEC35BF789347D467CD689F53E901574AAE0911E909165CE0437BA">
+        <img src="https://img.shields.io/badge/🔗_Verify_Certificate-3b0764?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/ORACLE_OCI_2025-AI_Foundations-d946ef?style=for-the-badge&logo=oracle&logoColor=white&labelColor=12003a" /><br/><br/>
+      <sub>
+        ✅ Machine Learning &nbsp;·&nbsp; Deep Learning<br/>
+        ✅ Natural Language Processing &nbsp;·&nbsp; CV<br/>
+        ✅ OCI AI Services &nbsp;·&nbsp; Data Science
+      </sub><br/><br/>
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=536B7DA1A445B06AE9B1ABEECAA2542721D3C2B9028B721D566112844367C634">
+        <img src="https://img.shields.io/badge/🔗_Verify_Certificate-3b0764?style=flat-square" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
 
 <br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
 
-<!-- ════════════════════════════════════════════════════════
-     ENGINEERING JOURNEY
-     ════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<div align="center">
-<h3>🗺️ Engineering Journey</h3>
-</div>
-
-```
-2025
- ├─ Enrolled: B.Tech CSE (AI & ML) — Shivalik College of Engineering
- └─ Certified: Oracle OCI AI Foundations + Gen AI Professional
-
-2026  ← current
- ├─ DSA: Striver A2Z — 110/495 problems completed
- ├─ LeetCode: 95 solved · 70-day max streak · 50 Days Badge 🏅
- ├─ Built: Ultimate-DSA-Tracker (HTML/CSS/JS → GitHub Pages)
- ├─ Built: DSA-_OS (C++ solutions archive, active)
- └─ Focus: Full Stack Development + Software Engineering
-
-→ Next: Internship-ready Software / Full Stack Developer
-→ Long-term: Machine Learning Engineering
-```
-
-<br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
-
-<!-- ════════════════════════════════════════════════════════
-     CURRENT FOCUS
-     ════════════════════════════════════════════════════════ -->
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════
+     GOALS & ROADMAP
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3>🎯 Current Focus</h3>
+<h2>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; 🗺️ Engineering Roadmap &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
 
-| | Area | Status |
-|:---:|:---|:---:|
-| 🔢 | **DSA** — Striver A2Z in C++, daily LeetCode | Active |
-| 🌐 | **Full Stack** — React + Backend fundamentals | Learning |
-| 📐 | **Software Engineering** — Clean code, Git, system thinking | Practicing |
-| 🤖 | **AI / ML** — OCI certified, building foundations | Long-term |
+</div>
+
+```
+📅 2025
+ ├─ 🎓  Started B.Tech CSE (AI & ML) — Shivalik College of Engineering, Dehradun
+ └─ 🏆  Earned 2× Oracle OCI Certifications (Gen AI Pro + AI Foundations)
+
+📅 2026  ← NOW
+ ├─ 🧠  DSA: Striver A2Z — 110/495 completed · daily grind in C++
+ ├─ ⚡  LeetCode: 95 solved · 70-day max streak · 50 Days Badge 🏅
+ ├─ 🌐  Built: Ultimate-DSA-Tracker (HTML/CSS/JS → GitHub Pages) ⭐1
+ ├─ 💻  Built: DSA-_OS (C++ archive, Striver A2Z solutions) ⭐1
+ ├─ 📝  Built: Problems-Solved (NeetCode.io submissions archive)
+ └─ 🎯  Learning: Full Stack (React + Backend) · Software Engineering
+
+🚀 2027 GOALS
+ ├─ ✅  Complete Striver A2Z DSA Sheet
+ ├─ 🌐  Build full-stack web applications with real users
+ ├─ 💼  Land Software / Full Stack Engineering Internship
+ └─ 🤖  Deepen AI/ML practical skills beyond certifications
+
+🌟 LONG TERM → Machine Learning Engineering
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     FUN FACTS
+     ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h2>
+  <img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; ⚡ Fun Facts &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
+
+<table align="center" width="85%">
+  <tr>
+    <td align="left">
+      <ul>
+        <li>🏔️ I study and code from <b>Dehradun</b> — surrounded by the Himalayas</li>
+        <li>🔥 I maintained a <b>70-day LeetCode streak</b> — and I'm not done</li>
+        <li>⚡ My preferred weapon for DSA: <b>C++</b> — fast, powerful, unforgiving</li>
+        <li>🤖 I'm Oracle OCI certified in <b>Generative AI</b> — as a 3rd-year student</li>
+        <li>🌐 I believe in building real things, not just studying theory</li>
+        <li>📋 I follow <b>Striver's A2Z</b> for DSA — the most structured sheet out there</li>
+        <li>🎯 My profile philosophy: <i>ship working code, not excuses</i></li>
+        <li>🚀 Long-term goal: <b>Machine Learning Engineer</b> who can also build full products</li>
+      </ul>
+    </td>
+    <td align="center" width="35%">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="coding cat" /><br/>
+      <sub><i>me at 2am debugging 💀</i></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header&reversal=false" width="100%"/></div>
 
-<!-- ════════════════════════════════════════════════════════
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
      CONNECT
-     ════════════════════════════════════════════════════════ -->
-
-<br/>
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3>🤝 Connect</h3>
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38" style="vertical-align:middle" />
+  &nbsp;&nbsp; 🤝 Let's Connect! &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38" style="vertical-align:middle" />
+</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar-4665592a6)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rahulkumar33-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahulkumar33/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-rahulkufgas-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rahulkufgas)
-[![Striver](https://img.shields.io/badge/Striver%20A2Z-Rahul__Kumar07-6366f1?style=for-the-badge)](https://takeuforward.org/profile/Rahul_Kumar07)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=A855F7&center=true&vCenter=true&width=600&height=30&lines=Open+to+internships+%7C+collaborations+%7C+open+source+contributions;Let's+build+something+real+together+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Connect" />
+
+<br/><br/>
+
+<p>
+  <a href="https://linkedin.com/in/rahul-kumar-4665592a6">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/Rahulkumar33/">
+    <img src="https://img.shields.io/badge/LeetCode-Rahulkumar33-d946ef?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/rahulkufgas">
+    <img src="https://img.shields.io/badge/GFG-rahulkufgas-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+<p>
+  <a href="https://takeuforward.org/profile/Rahul_Kumar07">
+    <img src="https://img.shields.io/badge/Striver_A2Z-Rahul__Kumar07-7c3aed?style=for-the-badge" />
+  </a>&nbsp;
+  <a href="https://github.com/RahulKumar-018">
+    <img src="https://img.shields.io/badge/GitHub-RahulKumar--018-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="80" />
+
+<br/>
 
 </div>
 
-<!-- ════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════
      FOOTER
-     ════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<div align="center">
-
-<svg width="860" height="56" viewBox="0 0 860 56" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#060810"/>
-      <stop offset="50%"  style="stop-color:#0a0d1a"/>
-      <stop offset="100%" style="stop-color:#060810"/>
-    </linearGradient>
-    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#6366f1;stop-opacity:0"/>
-      <stop offset="30%"  style="stop-color:#6366f1;stop-opacity:0.6"/>
-      <stop offset="70%"  style="stop-color:#8b5cf6;stop-opacity:0.6"/>
-      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="56" rx="10" fill="url(#footerBg)"/>
-  <rect x="80" y="0" width="700" height="1.5" rx="1" fill="url(#footerLine)"/>
-  <text x="430" y="26" text-anchor="middle"
-        font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="12" fill="#8b949e">
-    Solving problems consistently · Building things that work · Getting better every week
-  </text>
-  <text x="430" y="46" text-anchor="middle"
-        font-family="'JetBrains Mono',monospace"
-        font-size="10" fill="#484f58">github.com/RahulKumar-018 · 2026</text>
-</svg>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080010,30:0f0025,65:1a003a,85:0f0025,100:080010&height=130&section=footer&text=Solving+%7C+Building+%7C+Shipping+%7C+Repeating&fontSize=16&fontColor=d946ef&fontAlignY=70&animation=fadeIn" />
